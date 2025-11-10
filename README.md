@@ -1,4 +1,4 @@
-# RS-SM-Data-Evaluation-Central-Asia-
+# RS-SM-Data-Evaluation-Central-Asia
 
 This repository contains all  MATLAB  scripts used to support the manuscript:
 
