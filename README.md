@@ -7,3 +7,8 @@ This repository contains all  MATLAB  scripts used to support the manuscript:
 Submitted to Ecological Informatics (Manuscript No. ECOINF-D-25-03450)
 
 Authors: "Mousa, B.G.; et al.
+
+For questions related to data processing, statistical analysis, code implementation, please contact:
+B.G. Mousa
+Email: dr.bahaa1@azhar.edu.eg
+
